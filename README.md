@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Eli,
+
+On the road to become a fullstack webdeveloper.
+
+currently learning: Laravel
+
+
 <!--
 **soneoso/soneoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
