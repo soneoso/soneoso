@@ -1,8 +1,11 @@
-### Hi there 👋
 
-I'm Eli,
 
-On the road to become a fullstack webdeveloper.
+### I'm Eli,
+
+On the road to become a junior fullstack webdeveloper. I have a background in music production and a bit of graphic design.
+
+##### A website should breathe life into the screen of the user and take them on the journey the client wants. 
+
 
 currently learning: Laravel
 
