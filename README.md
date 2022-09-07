@@ -3,7 +3,7 @@
 
 ### Hi, I'm Eli,
 
-I'm on the road to become a junior fullstack web developer. I have a background in music production and a bit of graphic design.
+I'm on the road to become a junior full stack web developer. I have a background in music production and a bit of graphic design.
 To be honest I only have scratched the surface of coding in general but, with every project my motivation becomes stronger to learn more.
 
 A website should breathe life into the screen of the user and take them on the journey the client wants. 
