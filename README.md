@@ -11,8 +11,6 @@ A website should breathe life into the screen of the user and take them on the j
 
 ### Languages and Tools:
 <img height="32" width="32" 
-src="https://avatars.githubusercontent.com/u/9919?s=40&v=4" />
-<img height="32" width="32" 
 src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" />
 <img height="32" width="32" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
