@@ -1,6 +1,5 @@
 ![banner 3](https://user-images.githubusercontent.com/95879803/180875492-63925b5a-0c12-4d8b-a913-d289f18a5d4c.jpeg)
 
-<a href="https://app.daily.dev/neoso"><img src="https://api.daily.dev/devcards/1824560d7d7f48699a7febe6426d3277.png?r=tt7" width="400" alt="Eli Dekeersgieter's Dev Card"/></a>
 ### Hi, I'm Eli,
 
 I'm on the road to become a junior front-end web developer. I have a background in music production and a bit of graphic design.
