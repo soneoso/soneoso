@@ -1,11 +1,9 @@
-![banner 3](https://user-images.githubusercontent.com/95879803/180875492-63925b5a-0c12-4d8b-a913-d289f18a5d4c.jpeg)
+![banner 3](https://wenite.io/wp-content/uploads/2021/05/Website-Share-link-1.png)
 
 ### Hi, I'm Eli,
 
-I'm on the road to become a junior front-end web developer. I have a background in music production and a bit of graphic design.
-To be honest I only have scratched the surface of coding in general but, with every project my motivation becomes stronger to learn more.
-
-A website should breathe life into the screen of the user and take them on the journey the client wants. 
+Self-Motivated designer and programmer with wild interest in creating seamless digital experiences.
+This year has marked a turning point in my professional career. Learning how to be efficient, achieving maximum productivity and with minimum wasted effort or expense. 
 
 
 ### Languages and Tools:
@@ -17,13 +15,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img height="32" width="32" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img height="32" width="32" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img height="32" width="32" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img height="32" width="32" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 
 ### No-code related Programs:
 <img height="32" width="32" 
