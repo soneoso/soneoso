@@ -1,4 +1,4 @@
-![banner 3] (https://64.media.tumblr.com/9098da97e5c2a7cddc04d4671623a9b9/tumblr_ne6e4nnIMX1qd2yqto1_1280.jpg))
+![alt text](https://64.media.tumblr.com/9098da97e5c2a7cddc04d4671623a9b9/tumblr_ne6e4nnIMX1qd2yqto1_1280.jpg)
 
 ### Hi, I'm Eli,
 
